@@ -1,0 +1,22 @@
+{
+  "name": "TExES Math 7-12 Trivia",
+  "short_name": "Math Trivia",
+  "description": "Quantegy AI - TExES Math Certification Prep",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#00D9FF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
